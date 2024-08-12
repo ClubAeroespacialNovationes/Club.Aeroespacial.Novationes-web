@@ -1,0 +1,444 @@
+.body {
+    background-color: aliceblue;
+    color: black;
+}
+
+/*covers*/
+.cover {
+    height: 650px;
+    background-image: url(portada\ equipo.jpg);
+    color: aliceblue;
+    background-size: cover;
+    background-position: center;
+    background-color: rgba(0, 0, 0, 0.5);
+    background-blend-mode: darken;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.cover2 {
+    height: 400px;
+    background-image: url(portada\ quienes\ somos.jpg);
+    color: aliceblue;
+    background-size: cover;
+    background-position: center;
+    background-color: rgba(0, 0, 0, 0.5);
+    background-blend-mode: darken;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.cover-small {
+    height: 200px;
+    background-blend-mode: normal;
+}
+
+.cover-small1 {
+    height: 250px;
+    background-blend-mode: normal;
+}
+
+.cover3 {
+    height: 400px;
+    background-image: url(portada\ integrantes.jpg);
+    color: aliceblue;
+    background-size: cover;
+    background-position: center;
+    background-color: rgba(0, 0, 0, 0.5);
+    background-blend-mode: darken;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.cover4 {
+    height: 400px;
+    background-image: url(portada\ datos\ equipo\ C23.jpg);
+    color: aliceblue;
+    background-size: cover;
+    background-position: center;
+    background-color: rgba(0, 0, 0, 0.5);
+    background-blend-mode: darken;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.cover_alert {
+    margin-top: 15rem;
+    margin-left: 45rem;
+    height: 440px;
+    width: 400px;
+    background-image: url(fondo_.alert.jpg);
+    background-size: cover;
+    background-position: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.cover_diseño {
+    height: 400px;
+    background-image: url(portada\ diseño.jpg);
+    color: aliceblue;
+    background-size: cover;
+    background-position: center;
+    background-color: rgba(0, 0, 0, 0.5);
+    background-blend-mode: darken;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.cover_sr {
+    height: 400px;
+    background-image: url(fondo\ sistema\ de\ recuperación.jpg);
+    color: aliceblue;
+    background-size: cover;
+    background-position: center;
+    background-color: rgba(0, 0, 0, 0.5);
+    background-blend-mode: darken;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.cover_mp23 {
+    height: 400px;
+    background-image: url(portada\ misión\ primaria.jpg);
+    color: aliceblue;
+    background-size: cover;
+    background-position: center;
+    background-color: rgba(0, 0, 0, 0.5);
+    background-blend-mode: darken;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.cover_ms23 {
+    height: 400px;
+    background-image: url(portada\ misión\ secundaria23.jpg);
+    color: aliceblue;
+    background-size: cover;
+    background-position: center;
+    background-color: rgba(0, 0, 0, 0.5);
+    background-blend-mode: darken;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.cover_testeo {
+    height: 400px;
+    background-image: url(portada\ testeo.jpg);
+    color: aliceblue;
+    background-size: cover;
+    background-position: center;
+    background-color: rgba(0, 0, 0, 0.5);
+    background-blend-mode: darken;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.cover_medios23 {
+    height: 400px;
+    background-image: url(portada\ medios\ 23.jpg);
+    color: aliceblue;
+    background-size: cover;
+    background-position: center;
+    background-color: rgba(0, 0, 0, 0.5);
+    background-blend-mode: darken;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.cover_cierre23 {
+    height: 400px;
+    background-image: url(portada\ cierre\ proyecto.jpg);
+    color: aliceblue;
+    background-size: cover;
+    background-position: center;
+    background-color: rgba(0, 0, 0, 0.5);
+    background-blend-mode: darken;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.cover_lanzamiento23 {
+    height: 400px;
+    background-image: url(portada\ lanzamiento\ 23_2.jpg);
+    color: aliceblue;
+    background-size: cover;
+    background-position: center;
+    background-color: rgba(0, 0, 0, 0.5);
+    background-blend-mode: darken;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.cover_encuentro {
+    height: 400px;
+    background-image: url(portada\ lanzamiento\ 23_2.jpg);
+    color: aliceblue;
+    background-size: cover;
+    background-position: center;
+    background-color: rgba(0, 0, 0, 0.5);
+    background-blend-mode: darken;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+/*imágenes*/
+.logo {
+    width: 30px;
+    height: 30px;
+}
+
+.tira-presentation {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-left: 4rem;
+}
+
+.contenedor {
+    margin-left: 1rem;
+    margin-right: 25rem;
+}
+
+.contenedor-imágen {
+    height: 100%;
+    padding-top: 56.25%;
+    background-size: cover;
+    background-position: center;
+    flex-shrink: 0;
+}
+
+.contenedor-kit {
+    display: flex;
+}
+
+.contenedor-kit .card {
+    width: 300px;
+    flex-shrink: 0;
+    margin-right: 1rem;
+}
+
+.tira-kit {
+    overflow-x: scroll;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.img {
+    display: inline-block;
+}
+
+.container_img {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.texto_entre {
+    flex: 1;
+    margin: 0 20px;
+}
+
+
+/*tipografías*/
+.principal1 {
+    font-family: Helvetica, sans-serif;
+    font-size: large;
+}
+
+.principal {
+        font-family: Tahoma, Geneva, Verdana, sans-serif;
+        font-weight: 1000;
+        font-style: normal;
+        margin-top: 10rem;
+}
+
+.text {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+
+.title {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    margin-top: 1rem;
+}
+
+.change_text {
+    flex: 1;
+}
+
+.change {
+    max-width: 100%;
+    height: auto;
+}
+
+.text_cover {
+    margin-top: 4.5rem;
+    color: aliceblue;
+}
+
+.text_cover1 {
+    color: aliceblue;
+}
+
+.justify {
+    text-align: justify;
+}
+
+.texto {
+    margin-left: 4rem;
+    margin-right: 4rem;
+}
+
+.extra_li {
+    font-size: x-large;
+}
+
+
+/*transiciones tarjetas*/
+.transition {
+    transition: transform 0.2s ease;
+}
+.transition:hover {
+    transform: scale(1.35);
+}
+
+.transition1 {
+    transition: transform 0.2s ease;
+}
+.transition1:hover {
+    transform: scale(1.05);
+}
+
+
+/*márgenes*/
+.distance {
+    margin-left: 1.5rem;
+}
+
+.mr-4 {
+    margin-right: 2rem;
+}
+
+.ml-4 {
+    margin-left: 2rem;
+}
+
+.border border-primary {
+    margin-top: 20rem;
+    height: 100px;
+    width: 100px;
+}
+
+.mb-2 {
+    margin-bottom: 2rem;
+}
+
+.mr-10 {
+    margin-right: 30rem;
+}
+
+.ml-10 {
+    margin-left: 30rem;
+}
+
+.mt-1 {
+    margin-top: 5rem;
+}
+
+.ml-44 {
+    margin-left: 44rem;
+}
+
+
+/*tarjetas*/
+.card {
+    border: 0 !important;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+    font-weight: 18rem;
+    display: inline-block;
+    transition: transform 0.2s ease;
+    margin-top: -1rem;
+}
+.card:hover {
+    transform: scale(1.05);
+}
+
+.card-img-top {
+    width: 18rem;
+}
+
+.card-title {
+    min-height: 3rem;
+}
+
+.card-text {
+    min-height: 23rem;
+    background-position: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.card-text-p {
+    min-height: 50rem;
+    background-position: center;
+}
+
+.avatar{
+    width: 120px;
+    height: 120px;
+    background-size: cover;
+    background-position: left;
+    margin: 0 auto;
+    display: inline-block;
+}
+
+.presentations {
+    display: flex;
+}
+
+.presentations .card {
+    width: 300px;
+    flex-shrink: 0;
+    margin-right: 1rem;
+}
+
+/*video*/
+.video-container {
+    width: 50%;
+    max-width: 700px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.video-container_2 {
+    width: 50%;
+    max-width: 1000px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.video-container_4 {
+    width: 50%;
+    max-width: 1500px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.video-item {
+    flex: 1;
+}
+
+.video-container video {
+    width: 100%;
+    height: auto;
+}
+
+.video {
+    display: inline-block;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+
+.video-container_3 {
+    width: 50%;
+    max-width: 400px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.audio {
+    display: none;
+}
