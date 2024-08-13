@@ -442,3 +442,12 @@
 .audio {
     display: none;
 }
+
+/*extra*/
+.navbar {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000; /* Para asegurar que el nav esté por encima de otros elementos */
+    background-color: #f8f9fa; /* Para que se vea bien en todas las partes de la página */
+}
