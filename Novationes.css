@@ -336,7 +336,7 @@
 }
 
 .ml-44 {
-    margin-left: 34rem;
+    margin-left: 52rem;
 }
 
 
@@ -450,4 +450,38 @@
     width: 100%;
     z-index: 1000; /* Para asegurar que el nav esté por encima de otros elementos */
     background-color: #f8f9fa; /* Para que se vea bien en todas las partes de la página */
+}
+
+/*Footer*/
+.footer {
+    height: 250px;
+    background-color: rgb(80, 154, 240);
+    color: aliceblue;
+    background-size: cover;
+    background-position: center;
+    background-blend-mode: darken;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.logo2 {
+    width: 30px;
+    height: 30px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.mr-2{
+    margin-right: 2rem;
+}
+
+.mt-4{
+    margin-top: 4rem;
+}
+
+.ml-2{
+    margin-left: 10rem;
+}
+
+.ml-10{
+    margin-left: -10rem;
 }
