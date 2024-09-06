@@ -485,3 +485,23 @@
 .ml-10{
     margin-left: -10rem;
 }
+
+
+/*carrusel*/
+.ml-15{
+    margin-left: 15rem;
+}
+
+.mr-15{
+    margin-right: 15rem;
+}
+
+.carousel{
+    height: 950px;
+    width: auto;
+}
+
+.carousel-item{
+    height: 950px;
+    width: auto;
+}
