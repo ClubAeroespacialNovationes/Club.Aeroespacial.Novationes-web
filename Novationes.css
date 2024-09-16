@@ -179,6 +179,7 @@
     padding-top: 1rem;
     padding-bottom: 1rem;
     padding-left: 4rem;
+    width: 1500px;
 }
 
 .contenedor {
@@ -400,6 +401,15 @@
     justify-content: space-between;
 }
 
+.video-container5 {
+    height: 500px;
+    width: 50%;
+    max-width: 300px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+
 .video-container_2 {
     width: 50%;
     max-width: 1000px;
@@ -432,8 +442,9 @@
 }
 
 .video-container_3 {
+    height: 500px;
     width: 50%;
-    max-width: 400px;
+    max-width: 700px;
     margin: 0 auto;
     display: flex;
     justify-content: space-between;
@@ -455,12 +466,17 @@
 /*Footer*/
 .footer {
     height: 250px;
+    width: 1900px;
     background-color: rgb(80, 154, 240);
     color: aliceblue;
     background-size: cover;
     background-position: center;
     background-blend-mode: darken;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.fwidth {
+    width: 1500px;
 }
 
 .logo2 {
