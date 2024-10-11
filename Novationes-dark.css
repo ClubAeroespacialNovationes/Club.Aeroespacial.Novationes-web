@@ -157,6 +157,17 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+.cover_bariloche {
+    height: 400px;
+    background-image: url(portada\ viaje\ bariloche.jpg);
+    color: aliceblue;
+    background-size: cover;
+    background-position: center;
+    background-color: rgba(0, 0, 0, 0.5);
+    background-blend-mode: darken;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
 
 /*imágenes*/
 .logo {
@@ -500,6 +511,14 @@
     margin-right: 15rem;
 }
 
+.ml-46{
+    margin-left: 46.6rem;
+}
+
+.mr-46{
+    margin-right: 46.6rem;
+}
+
 .carousel{
     height: 950px;
     width: auto;
@@ -507,5 +526,15 @@
 
 .carousel-item{
     height: 950px;
+    width: auto;
+}
+
+.carousel2{
+    height: 800px;
+    width: auto;
+}
+
+.carouselt-item2{
+    height: 800px;
     width: auto;
 }
