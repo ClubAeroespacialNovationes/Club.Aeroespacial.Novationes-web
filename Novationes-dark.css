@@ -306,6 +306,10 @@
     font-size: x-large;
 }
 
+.color {
+    color: rgb(10, 172, 247);
+}
+
 
 /*transiciones tarjetas*/
 .transition {
