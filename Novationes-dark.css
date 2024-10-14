@@ -370,6 +370,10 @@
     margin-left: 6rem;
 }
 
+.mt-2 {
+    margin-top: 2rem;
+}
+
 
 /*tarjetas*/
 .card {
@@ -383,6 +387,9 @@
 .card:hover {
     transform: scale(1.05);
 }
+.card {
+    margin-top: 2rem !important;
+ }
 
 .card-img-top {
     width: 18rem;
