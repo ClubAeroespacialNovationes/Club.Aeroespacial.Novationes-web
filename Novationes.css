@@ -399,6 +399,20 @@
     margin-top: 2rem !important;
  }
 
+
+ .card2 {
+    border: 0 !important;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+    font-weight: 18rem;
+    display: inline-block;
+    transition: transform 0.2s ease;
+    margin-top: -1rem;
+}
+.card:hover {
+    transform: scale(1.05);
+}
+
+
 .card-img-top {
     width: 18rem;
 }
